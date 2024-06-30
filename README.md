@@ -3,14 +3,25 @@
 <!--
 **rumeysa-oz/rumeysa-oz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Rümeysa Özavan, I am a Computer Engineering student and I am interested in software development, data science and artificial intelligence. 
+I am eager to learn and work with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️Location
+- Turkey/Ankara
+
+## 📚 Education
+- **University:** University of Turkish Aeronautical Association
+- **Department:** Computer Engineering
+- **Year:** 3
+
+## 🔧 Technical Skills
+- **Programming Languages:** Python, Java
+- **Data Science:** Pandas, NumPy, Matplotlib
+- **Databases:** SQL Server, MySQL 
+- **Tools and Frameworks:** Git
+
+## 🌱 I'm Currently Learning
+- Artificial Intelligence and Machine Learning
+- Mobile Application Development (Flutter)
+- Blockchain Technologies
+- Advanced Ethical Hacking Techniques
