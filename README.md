@@ -3,7 +3,7 @@
 <!--
 **rumeysa-oz/rumeysa-oz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am Rümeysa Özavan, I am a Computer Engineering student and I am interested in software development, data science and artificial intelligence. 
+I am Rümeysa, I am a Computer Engineering student and I am interested in software development, data science and artificial intelligence. 
 I am eager to learn and work with new technologies.
 
 ## 🗺️Location
